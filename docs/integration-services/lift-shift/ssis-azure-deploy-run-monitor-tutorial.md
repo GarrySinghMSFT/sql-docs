@@ -82,7 +82,7 @@ To learn more about deploying packages and about the Deployment Wizard, see [Dep
 
 ### Deploy a project with the Deployment Wizard
 1. On the **Introduction** page of the Deployment Wizard, review the introduction. Select **Next** to open the **Select Source** page.
-
+--- Change to following section is needed ---
 2. On the **Select Source** page, select the existing SSIS project to deploy.
     -   To deploy a project deployment file that you created, select **Project deployment file** and enter the path to the .ispac file.
     -   To deploy a project that resides in an SSIS catalog, select **Integration Services catalog**, and then enter the server name and the path to the project in the catalog.
